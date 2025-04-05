@@ -2,7 +2,7 @@ name: Login to WandB
 
 on:
   workflow_dispatch: # Allows manual execution only
-
+#MINT
 jobs:
   login:
     runs-on: ubuntu-latest
